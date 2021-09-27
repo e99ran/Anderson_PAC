@@ -1,0 +1,5 @@
+Computer account aes key:
+aes cadeeb097d19c97c7f4c930b5546ece54b0cba72608297d0f05be7394a558b27
+
+AS-Replay key encoded with base64:
+Wf+ltNtt8e1Y8jlgiQ9Kag==
